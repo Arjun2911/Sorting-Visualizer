@@ -3,9 +3,10 @@
 }
 
 .navbar-brand{
-  font-size: 30px;
+  font-size: 28px;
   color: black;
-  margin-top: 10px;
+  font-weight: bold;
+  margin-top: 8px;
 }
 
 .App-logo {
